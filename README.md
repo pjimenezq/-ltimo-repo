@@ -76,3 +76,7 @@ for k,v in alrtavelviento.items():#Recorriendo pares llaves:valor
         print((datetime.utcfromtimestamp(dia).strftime('%Y-%m-%d %H:%M:%S'))+ " Alerta de velocidad del viento "+ str(variableVelViento))#Se imprime la fecha de la alerta, el tipo de alerta y la velocidad del viento
 ```
 
+## Punto cinco
+A través de un programa conectese a al menos 3 API's , obtenga el JSON, imprimalo y extraiga los pares de llave : valor.
+
+**Código**
